@@ -1,0 +1,16 @@
+{
+  "name": "upper_caser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upper_caser.js",
+  "scripts": {
+    "test": "mocha upper_caser_spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
